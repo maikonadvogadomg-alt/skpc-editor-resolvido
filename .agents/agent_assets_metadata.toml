@@ -1,0 +1,20 @@
+uploads = []
+generated = []
+
+[[outputs]]
+id = "O2yGxKDA49ajszYbXoqBb"
+uri = "file://artifacts/code-editor/public/guia-completo-apk.md"
+type = "text"
+title = "Guia Completo — Como Compilar APK"
+
+[[outputs]]
+id = "y4rU1XydX5-KaDB15eyN7"
+uri = "file://.local/exports/sk-editor-completo.zip"
+type = "unspecified"
+title = "SK Editor Completo (código fonte)"
+
+[[outputs]]
+id = "avEEhbT8UbtXEoKokIQ27"
+uri = "file://attached_assets/exports/sk-editor-source.zip"
+type = "unspecified"
+title = "SK Code Editor — Versão enxuta (472KB)"
