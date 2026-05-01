@@ -1,0 +1,1 @@
+# skpc-editor-resolvido
